@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently learning some DL algorithms
-- 🤔 I’m looking for with application ideas for them
+- 🤔 I’m looking for application ideas for them
 
 <!--
 **ariosto-cabrera/ariosto-cabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
